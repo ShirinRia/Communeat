@@ -1,0 +1,8 @@
+@media print{
+      .hide-on-print{
+          display: none;
+      }
+      .on-print{
+        border:none
+      }
+  }

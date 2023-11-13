@@ -1,0 +1,17 @@
+.cont {
+    padding: 40px;
+    /* background: #419be0; */
+    height: 300px;
+  }
+  
+  .slick-slide img {
+    margin: auto;
+  }
+  .slick-arrow{
+    /* background:#419be0; */
+    scale:2
+  }
+  .slick-prev, .slick-next{
+    top:30%
+  }
+  
